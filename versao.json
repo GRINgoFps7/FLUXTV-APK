@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/GRINgoFps7/FLUXTV-APK/raw/refs/heads/main/app-debug.apk",
-  "notes": "Versão inicial da FLUXTV"
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "apkUrl": "https://github.com/GRINgoFps7/FLUXTV-APK/raw/refs/heads/main/app-release.apk",
+  "notes": "Nova versão assinada da FLUXTV"
 }
